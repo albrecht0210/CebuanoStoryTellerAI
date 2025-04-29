@@ -12,5 +12,6 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0"
-  }
+  },
+  "proxy": "https://ce24-203-82-35-154.ngrok-free.app"
 }
